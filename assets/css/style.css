@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&family=Fjalla+One&family=Merriweather:wght@300;400&family=Roboto+Mono:ital,wght@1,300&family=Staatliches&family=Tourney:wght@100;400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+html{
+    scroll-behavior: smooth;
+}
+
+.font-satu{
+    font-weight: 300;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.font-dua{
+    font-weight: 400;
+    font-family: 'Merriweather',sans-serif;
+}
+
+.font-tiga{
+    font-weight: 100;
+    font-family: "Roboto Mono",sans-serif;
+}
+
+.font-empat{
+    font-family: "Staatliches",sans-serif;
+}
+
+.font-lima{
+    font-family: "Tourney",sans-serif;
+}
+
+.font-enam{
+    font-family: "Fira Mono",sans-serif;
+}
+
+.font-tujuh{
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.font-delapan{
+    font-family: "Otomanopee One", sans-serif;
+}
+
+.bg-dark{
+    background: transparent !important;
+    margin-top: 25px;
+}
+
+.bg-dark.scrolled{
+    background: #0e325e !important;
+    margin-top: 0;
+    transition: 0.5s linear;
+}
+
+.font-formal{
+    font-family: "Times New Roman", serif;
+}
+
+.button-header{
+    border-radius: 50px;
+    border: 2px solid #89B5AF;
+    background-color: transparent;
+    padding: 15px;
+    color: #89B5AF;
+}
+
+.button-header:hover{
+    transition: 0.3s;
+    color: white;
+    background-color: #89B5AF;
+    text-decoration: none;
+}
+
+.haer{
+    width: 250px;
+    border-top: 3px solid #999;
+}
+
+#dataTable input {
+  border-radius: 50px;
+  border: transparent;
+}
