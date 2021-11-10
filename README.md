@@ -26,6 +26,8 @@ Template Admin Dari SB Admin 2
 
 Username default = icwr
 Password default = icwr
+
+*Note: Jangan Lupa Ganti Password Admin!
 ```
 
 # Cara Konfigurasi
