@@ -1,5 +1,5 @@
 <h1 align="center"> Informasi Perpustakaan </h1>
-<img src="1.png">
+<img src="Rectangle 3.png">
 
 <p align="center">
   
