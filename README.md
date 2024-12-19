@@ -46,4 +46,3 @@ Website siap digunakan!
     Terimakasih Kepada ICWR-TEAM
 </p>
 
-Kontak Saya? 085837173009
